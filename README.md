@@ -1,5 +1,5 @@
 # 🚇 Dreamy Train Interior Animation
-
+![Dreamy Train Interior](0001.jpg)
 Welcome to my 3D creative project! This animation captures a surreal, liminal space featuring a flooded train interior, brought to life with atmospheric lighting and dreamlike aesthetics. ✨🌊
 
 ## 🎨 About the Project
